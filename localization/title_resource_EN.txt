@@ -1,0 +1,9 @@
+{
+    "about_us_page": {
+        "hdr_ideal_matches": "Ideal matches"
+    },
+    "header": {
+        "tab.add_listing": "Add a Listing",
+        "tab.messages": "Messages"
+    }
+}

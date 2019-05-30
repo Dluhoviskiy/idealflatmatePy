@@ -1,0 +1,11 @@
+{
+    "browser_name": "chrome",
+    "command_executor": "http://127.0.0.1:4444/wd/hub",
+    "configuration_name": "Flatmate",
+    "email": "rukiz@digital-work.net",
+    "javascript_enabled": "True",
+    "locale": "EN",
+    "password": "123456",
+    "url": "http://front.idealflatmate4test.demo.devplatform2.com",
+    "version": "latest"
+}

@@ -1,0 +1,11 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+ios
+.idea/*
+.DS_Store
+venv
+allure_reports
+allure*
+ios-tests-logs/*
+__pycache__/*
+*/__pycache__/
+*.pyc
